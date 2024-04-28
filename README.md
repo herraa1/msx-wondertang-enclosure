@@ -22,7 +22,7 @@ The enclosure is based on the nice [acrylic enclosures by Capsule5000](https://g
 |-|-|
 |left|right|
 
-|[<img src="images/msx-wondertang-enclosure-top-IMG_6002.png" width="256"/>](images/msx-wondertang-enclosure-top-IMG_6002.png)|[<img src="images/msx-wondertang-enclosure-bottom-IMG_6001.png" width="256"/>](iimages/msx-wondertang-enclosure-bottom-IMG_6001.png)|
+|[<img src="images/msx-wondertang-enclosure-top-IMG_6002.png" width="256"/>](images/msx-wondertang-enclosure-top-IMG_6002.png)|[<img src="images/msx-wondertang-enclosure-bottom-IMG_6001.png" width="256"/>](images/msx-wondertang-enclosure-bottom-IMG_6001.png)|
 |-|-|
 |top|bottom|
 
