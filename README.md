@@ -14,15 +14,15 @@ The enclosure is based on the nice [acrylic enclosures by Capsule5000](https://g
 > Photos show the previous enclosure for [V1.01b.F1-fork](https://github.com/herraa1/WonderTANG/tree/topic/release-V1.01b.F1-fork)
 >
 
-|[<img src="images/msx-wondertang-enclosure-front-IMG_5990.png" width="256"/>](images/msx-wondertang-enclosure-front-IMG_5990.png)|[<img src="images/msx-wondertang-enclosure-back-IMG_5991.png" width="256"/>](images/msx-wondertang-enclosure-back-IMG_5991.png)|
+|[<img src="images/msx-wondertang-enclosure-front-IMG_5994.png" width="256"/>](images/msx-wondertang-enclosure-front-IMG_5994.png)|[<img src="images/msx-wondertang-enclosure-back-IMG_5995.png" width="256"/>](images/msx-wondertang-enclosure-back-IMG_5995.png)|
 |-|-|
 |front|back|
 
-|[<img src="images/msx-wondertang-enclosure-left-IMG_5988.png" width="256"/>](images/msx-wondertang-enclosure-left-IMG_5988.png)|[<img src="images/msx-wondertang-enclosure-right-IMG_5989.png" width="256"/>](images/msx-wondertang-enclosure-right-IMG_5989.png)|
+|[<img src="images/msx-wondertang-enclosure-left-IMG_5999.png" width="256"/>](images/msx-wondertang-enclosure-left-IMG_5999.png)|[<img src="images/msx-wondertang-enclosure-right-IMG_5997.png" width="256"/>](images/msx-wondertang-enclosure-right-IMG_5997.png)|
 |-|-|
 |left|right|
 
-|[<img src="images/msx-wondertang-enclosure-top-IMG_5993.png" width="256"/>](images/msx-wondertang-enclosure-top-IMG_5993.png)|[<img src="images/msx-wondertang-enclosure-bottom-IMG_5992.png" width="256"/>](iimages/msx-wondertang-enclosure-bottom-IMG_5992.png)|
+|[<img src="images/msx-wondertang-enclosure-top-IMG_6002.png" width="256"/>](images/msx-wondertang-enclosure-top-IMG_6002.png)|[<img src="images/msx-wondertang-enclosure-bottom-IMG_6001.png" width="256"/>](iimages/msx-wondertang-enclosure-bottom-IMG_6001.png)|
 |-|-|
 |top|bottom|
 
