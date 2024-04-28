@@ -11,7 +11,7 @@ The enclosure is based on the nice [acrylic enclosures by Capsule5000](https://g
 ## [Enclosure](enclosure/)
 
 >[!WARNING]
-> Photos show the previous enclosure for V1.01b.F1-fork
+> Photos show the previous enclosure for [V1.01b.F1-fork](https://github.com/herraa1/WonderTANG/tree/topic/release-V1.01b.F1-fork)
 >
 
 |[<img src="images/msx-wondertang-enclosure-front-IMG_5990.png" width="256"/>](images/msx-wondertang-enclosure-front-IMG_5990.png)|[<img src="images/msx-wondertang-enclosure-back-IMG_5991.png" width="256"/>](images/msx-wondertang-enclosure-back-IMG_5991.png)|
